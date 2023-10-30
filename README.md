@@ -34,5 +34,20 @@ To run the code in this repository, you will need the following Python libraries
 
 You can install these dependencies using pip:
 
-```bash
+bash
 pip install numpy pandas scikit-learn matplotlib seaborn
+
+Usage
+Clone this repository to your local machine:
+
+git clone https://github.com/yourusername/diabetes-classifier.git
+Navigate to the project directory:
+
+cd diabetes-classifier
+Run the Jupyter Notebook or Python scripts provided in each section to explore and analyze the different machine learning techniques and models.
+
+Results
+The results of the experiments and comparisons between the different techniques and models can be found in the Jupyter Notebook or script outputs. We evaluate and visualize the performance of each approach using various metrics.
+
+Conclusion
+This repository provides a comprehensive analysis of building a diabetes classifier using logistic regression, linear regression, L1 and L2 normalization, Batch Gradient Descent, Stochastic Gradient Descent, and Least Squares Classification. By examining the impact of each technique on the classification task, we aim to identify the best approach for predicting diabetes risk.
