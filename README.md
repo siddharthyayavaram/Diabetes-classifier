@@ -39,7 +39,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 
 Usage
 Clone this repository to your local machine
-
+\n
 Navigate to the project directory:
 
 cd diabetes-classifier
