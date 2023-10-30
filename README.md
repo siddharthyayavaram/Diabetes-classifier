@@ -38,9 +38,8 @@ bash
 pip install numpy pandas scikit-learn matplotlib seaborn
 
 Usage
-Clone this repository to your local machine:
+Clone this repository to your local machine
 
-git clone https://github.com/yourusername/diabetes-classifier.git
 Navigate to the project directory:
 
 cd diabetes-classifier
